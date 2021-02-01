@@ -11,7 +11,7 @@ class TelaPrincipal:
                       )
              ],
             # ELEMENTOS TEXTO E ENTRADA
-            [sg.Text('Anos de Empresa : ',
+            [sg.Text('Anos de Empresa : ', 
                      size=(10, 0),
                      font=20),
 
