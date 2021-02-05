@@ -5,7 +5,7 @@ class TelaPrincipal:
         # LAYOUT DA TELA
         layout = [
             # BARRA
-            [sg.Image(filename=('_img/fgts-o-saque.png'),
+            [sg.Image(filename=('tela_com_pysimplegui_FGTS\_img/bannerFgts.png'),
                       background_color=None,
                       size=(300, 100),
                       )
